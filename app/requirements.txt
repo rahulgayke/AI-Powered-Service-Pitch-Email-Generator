@@ -1,0 +1,17 @@
+
+# Python
+pandas
+
+# Langchian Core
+langchain
+langchain-groq
+chromadb
+langchain-community
+langchain-core
+
+# Web scraping
+bs4
+
+# UI
+streamlit
+onnxruntime

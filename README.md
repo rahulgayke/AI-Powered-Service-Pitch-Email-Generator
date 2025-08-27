@@ -29,5 +29,10 @@ pip install -r requirements.txt
 ### Create a `.env` file in the root directory and add your Huggingface API credentials as follows:
 
 ```ini
-HUGGINGFACE_API_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+GROQ_API_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+```
+
+### Run the main.py file
+```bash
+streamlit run main.py
 ```
